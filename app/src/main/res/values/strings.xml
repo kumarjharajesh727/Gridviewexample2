@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gridviewexample</string>
+    <string-array name="topicname">
+        <item>Topicwise books</item>
+        <item>Aptitude section</item>
+        <item>Coding questions</item>
+        <item>Master java</item>
+        <item>Resume building</item>
+        <item>Hr round</item>
+    </string-array>
+</resources>
